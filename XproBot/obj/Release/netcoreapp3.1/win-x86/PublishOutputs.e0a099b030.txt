@@ -1,0 +1,10 @@
+Z:\Runnable Projects\XproBot\XproBot V1\XproBot.exe
+Z:\Runnable Projects\XproBot\XproBot V1\XproBot.dll
+Z:\Runnable Projects\XproBot\XproBot V1\XproBot.deps.json
+Z:\Runnable Projects\XproBot\XproBot V1\XproBot.runtimeconfig.json
+Z:\Runnable Projects\XproBot\XproBot V1\XproBot.pdb
+Z:\Runnable Projects\XproBot\XproBot V1\HtmlAgilityPack.dll
+Z:\Runnable Projects\XproBot\XproBot V1\Newtonsoft.Json.dll
+Z:\Runnable Projects\XproBot\XproBot V1\WebDriver.dll
+Z:\Runnable Projects\XproBot\XproBot V1\Telegram.Bot.dll
+Z:\Runnable Projects\XproBot\XproBot V1\Telegram.Bot.Extensions.Polling.dll

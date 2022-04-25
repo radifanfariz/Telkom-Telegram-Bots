@@ -1,0 +1,10 @@
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\TelkomCareBot.exe
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\TelkomCareBot.dll
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\TelkomCareBot.deps.json
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\TelkomCareBot.runtimeconfig.json
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\TelkomCareBot.pdb
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\HtmlAgilityPack.dll
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\Newtonsoft.Json.dll
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\WebDriver.dll
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\Telegram.Bot.dll
+Z:\___Runnable Projects___\TelkomCareBot\32 bit\Telegram.Bot.Extensions.Polling.dll
